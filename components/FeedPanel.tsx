@@ -62,7 +62,7 @@ export default function FeedPanel() {
           id="how-it-works"
           label="How It Works"
           title="Capture → Transcribe → Translate → Synthesise"
-          description="Powered by Whisper, DeepL, and ElevenLabs. Under 1 second on GPU."
+          description="A seamless real-time pipeline — translation arrives as the words are spoken, so viewers never wait or miss a beat."
         />
 
         <FeedCard
