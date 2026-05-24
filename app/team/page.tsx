@@ -19,7 +19,7 @@ const TEAM = [
     linkedin:
       "https://www.linkedin.com/in/cletus-john-akisin/",
     twitter: "https://x.com/AkisinCJ",
-    bio: "John is a systems engineer and researcher with a PhD in Mechanical Engineering and more than half a decade of experience in advanced R&D and technical consulting. He currently serves as a Senior Consulting Engineer at a leading UK advanced technology consultancy, where he delivers mission-critical engineering solutions for complex systems. His expertise spans systems engineering, advanced modelling, technical strategy and high-performance problem solving, bringing deep operational and analytical leadership to Elostreams.",
+    bio: "John is a Structural Integrity Analyst and Materials Engineer with a PhD in Mechanical Engineering and over six years of experience in advanced R&D and technical consulting. Currently a Senior Consulting Engineer at a leading UK technology and management consultancy firm, he delivers mission-critical structural assessments and material solutions for complex high-hazard assets. His expertise integrates fracture mechanics and advanced numerical modelling with AI-enhanced engineering workflows, leveraging automated data analysis and computational tools to solve high-performance problems. He brings deep analytical leadership and a modern approach to technical strategy at Elostreams.",
   },
   {
     name: "Oluwasegun D. Adeolu",
